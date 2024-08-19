@@ -1,0 +1,6 @@
+/* Add this CSS */
+.gradient-bg {
+  background: linear-gradient(to right, #add8e6, #fffffff0, #add8e6); /* Light blue to white to light blue */
+  min-height: 100vh; /* Ensure it covers the full viewport height */
+}
+
